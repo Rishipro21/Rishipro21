@@ -1,0 +1,5 @@
+{
+	"ip":"Rishipro2103WL0f.aternos.me",
+	"port": "45687",
+	"name": "afkbot"
+}
